@@ -17,7 +17,7 @@
             class AdminControl extends HTMLElement {
                 connectedCallback() {
                     console.log("Connected callback called!");
-                    this.innerHTML = "<h1>Hello World.</h1>";
+                    this.innerHTML = "<h1>Hello World from new version!!!.</h1>";
                     console.log("testing *");
                 }
                 constructor() {
