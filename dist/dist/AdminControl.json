@@ -11,7 +11,7 @@
         {
             "kind": "main",
             "tag": "corr-admin-control",
-            "url": "https://cdn.jsdelivr.net/gh/ljman/SACAdminControl/dist/AdminControl.js",
+            "url": "https://raw.githubusercontent.com/ljman/SACAdminControl/main/dist/AdminControl.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
